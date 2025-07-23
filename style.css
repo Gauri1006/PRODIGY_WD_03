@@ -1,0 +1,99 @@
+:root {
+  --primary: #006400;
+  --secondary: #98FB98;
+  --btn-text: white;
+}
+
+/* THEMES */
+body.nature {
+  --primary: #006400;
+  --secondary: #ccffcc;
+  --btn-text: white;
+}
+body.candy {
+  --primary: #FFD700;
+  --secondary: #FFB6C1;
+  --btn-text: purple;
+}
+body.clay {
+  --primary: #800080;
+  --secondary: #E6E6FA;
+  --btn-text: white;
+}
+
+/* BASE STYLES */
+body {
+  font-family: 'Comic Sans MS', cursive;
+  background: var(--secondary);
+  color: var(--primary);
+  text-align: center;
+  margin: 0;
+  padding: 20px;
+  transition: all 0.3s ease;
+}
+
+.container {
+  max-width: 500px;
+  margin: auto;
+}
+
+.title {
+  font-size: 2.5rem;
+  margin-bottom: 10px;
+}
+
+.theme-selector {
+  margin-bottom: 20px;
+}
+
+.game-board {
+  display: grid;
+  grid-template-columns: repeat(3, 100px);
+  gap: 10px;
+  justify-content: center;
+  margin: 20px auto;
+}
+
+.cell {
+  width: 100px;
+  height: 100px;
+  background-color: white;
+  border: 3px solid var(--primary);
+  border-radius: 12px;
+  cursor: pointer;
+  background-size: cover;
+  background-position: center;
+}
+
+.message {
+  font-size: 1.5rem;
+  margin-top: 20px;
+}
+
+button#reset {
+  padding: 10px 20px;
+  font-size: 1rem;
+  border: none;
+  background: var(--primary);
+  color: var(--btn-text);
+  border-radius: 10px;
+  cursor: pointer;
+  margin-top: 15px;
+}
+
+button#reset:hover {
+  background: var(--secondary);
+  color: var(--primary);
+}
+
+/* WIN LINE (Optional) */
+.win-line {
+  display: none;
+  width: 300px;
+  height: 5px;
+  background-color: red;
+  position: absolute;
+  top: 160px;
+  left: 50%;
+  transform: translateX(-50%);
+}
