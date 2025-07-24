@@ -2,7 +2,9 @@
 
 Welcome to my **PRODIGY_WD_03** submission — a beautifully animated, multi-theme Tic Tac Toe web game. This project blends playful design with interactive functionality and delightful nature-inspired aesthetics.
 
-![Tic Tac Toe Screenshot](assets/images/screenshot.png)
+ <img width="2879" height="1610" alt="Screenshot 2025-07-24 193852" src="https://github.com/user-attachments/assets/af73838f-d88c-4226-be9f-f34e091aca10" />
+<img width="2862" height="1570" alt="Screenshot 2025-07-24 193917" src="https://github.com/user-attachments/assets/c4f8e0c1-7f2a-4e65-8d02-fdfeaa1740c9" />
+<img width="2879" height="1623" alt="image" src="https://github.com/user-attachments/assets/a7dd31f9-f4e9-4bcf-9eb2-8596adbe34a9" />
 
 ---
 
@@ -21,9 +23,7 @@ Welcome to my **PRODIGY_WD_03** submission — a beautifully animated, multi-the
 - 🌈 **Fun Cursor & Hover Effects** – Interactive and cute UX/UI experience.
 - 💻 **Responsive Design** – Play it easily on mobile, tablet, or desktop screens.
 
--   <img width="2879" height="1610" alt="Screenshot 2025-07-24 193852" src="https://github.com/user-attachments/assets/af73838f-d88c-4226-be9f-f34e091aca10" />
-<img width="2862" height="1570" alt="Screenshot 2025-07-24 193917" src="https://github.com/user-attachments/assets/c4f8e0c1-7f2a-4e65-8d02-fdfeaa1740c9" />
-<img width="2879" height="1623" alt="image" src="https://github.com/user-attachments/assets/a7dd31f9-f4e9-4bcf-9eb2-8596adbe34a9" />
+
 
 
 
